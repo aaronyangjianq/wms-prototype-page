@@ -1,9 +1,9 @@
 {
   "app": "wms-mock-prototype",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "sourceRepository": "aaronyangjianq/wms",
-  "sourceCommit": "c0e2664dba22c0e3a0a0e150c0d1636ba5862f5a",
+  "sourceCommit": "beaa1f5d57e5879a2e1416640501107467b317a0",
   "dirty": false,
-  "builtAt": "2026-10-24T00:43:50.037Z",
+  "builtAt": "2026-10-24T03:45:38.951Z",
   "base": "/wms-prototype-page/"
 }
